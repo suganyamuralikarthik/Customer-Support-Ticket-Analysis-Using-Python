@@ -168,5 +168,6 @@ The completed Ticket Analysis System provides a structured way to manage and ana
 ## Conclusion
 
 This project demonstrates how Python can be used for **data cleaning, text processing, validation, and exploratory analysis** of customer support ticket data. The analysis provides useful insights that can help support teams improve service quality, prioritize customer issues, and identify areas for improvement.
-Created by Suganya
-Aspiring Data Analyst
+
+## Created by Suganya
+## Aspiring Data Analyst
